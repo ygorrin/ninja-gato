@@ -1,0 +1,11 @@
+img {
+  width: 30%;
+  cursor: pointer;
+  border-radius: 20px;
+  display: block;
+  margin: 5px auto;
+}
+
+img:hover {
+  border: 2px solid grey;
+}
